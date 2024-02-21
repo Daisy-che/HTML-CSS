@@ -1,15 +1,25 @@
 #format{
-    border: solid brown;
+    border: solid;
+    width: 50%;
+    margin: o auto;
+    padding: 12px;
+}
+.input{
+    padding: 10px 12px;
+    border-radius: 5px;
+    border: 1px
 
-    padding: 20px;
-    margin: 5%;
-
-    p{
-        border: solid 1px;
-        border-color: blue;
-    }
+}
+button{
+    padding: 1px 200px;
+    background-color: blue;
+    color: #2d1b42;
 
 
+}
+table{
+    border: solid black;
+    border-collapse: collapse;
 
 
 }
